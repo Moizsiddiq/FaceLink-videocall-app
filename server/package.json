@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemone index.js"
   },
-  "author": "anish diwan",
+  "author": "Moiz Siddiqui",
   "license": "ISC",
   "description": "",
   "dependencies": {
